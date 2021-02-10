@@ -1,4 +1,4 @@
-# esy-ocaml-inverted-ctypes-stubs
+# esy-ocaml-node-napi-poc
 
 Tested on Ubuntu 20.04(WSL 2).
 
